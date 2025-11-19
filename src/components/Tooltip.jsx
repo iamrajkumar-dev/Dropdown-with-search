@@ -59,7 +59,7 @@ const Tooltip = () => {
             left: position.left,
           }}
         >
-          I am Raj hsdgfjs jdfgjd
+          I am Raj
         </div>
       )}
     </div>
