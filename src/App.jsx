@@ -1,9 +1,9 @@
-import SearchDropdown from "./components/SearchDropdown";
+import Tooltip from "./components/Tooltip";
 
 function App() {
   return (
     <div className="App">
-      <SearchDropdown />
+      <Tooltip />
     </div>
   );
 }
